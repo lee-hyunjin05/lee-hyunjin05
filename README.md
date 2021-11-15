@@ -1,8 +1,10 @@
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F29661&height=300&section=header&text=Hi%20there 👋&fontSize=70)
 
    <br/>
+
+<div align="center">
    
    <h3>Hi I'm HyunJin, a growing developer. 🌱</h3>
    
@@ -36,8 +38,13 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 <br/><br/>
+
+</div>
+   
+   <h4>✉️ Contact ✉️</h4>
+   <h5> tkghlwhfu@naver.com </h5>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&reversal=ture&height=200&section=footer&text=%20&fontSize=70)
 
 
-</div>
+
