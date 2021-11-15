@@ -5,11 +5,11 @@
    <br/><br/>
    
    
-####I'm Hyun Jin, a growing developer. 🌱
+#I'm Hyun Jin, a growing developer. 🌱
    
    <br/><br/><br/><br/> 
    
- ###✨ Tech Stack ✨ 
+#✨ Tech Stack ✨ 
 
  <br/><br/>
 
