@@ -1,15 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there 👋&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20&fontSize=70)
 
    <br/>
    
-   
-   #I'm Hyun Jin, a growing developer. 🌱
+   <h3>Hi I'm HyunJin, a growing developer. 🌱</h3>
    
    <br/><br/>
    
-   #✨ Tech Stack ✨ 
+   <h4>✨ Tech Stack ✨ </h4>
 
  <br/>
    
